@@ -6,3 +6,6 @@ plotly
 matplotlib
 scikit-learn
 gunicorn
+Flask
+Flask-Cors
+Flask-SQLAlchemy
