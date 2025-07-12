@@ -5,4 +5,3 @@ numpy
 plotly
 matplotlib
 scikit-learn
-dcec
