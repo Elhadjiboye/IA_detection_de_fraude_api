@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+dcec
